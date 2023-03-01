@@ -1,5 +1,7 @@
 # Comprehensive Rust 🦀
 
+forked to learn rust
+
 This repository has the source code for Comprehensive Rust 🦀, a four day Rust
 course developed by the Android team. The course covers all aspects of Rust,
 from basic syntax to generics and error handling. It also includes
